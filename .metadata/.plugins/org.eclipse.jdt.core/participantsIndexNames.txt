@@ -1,0 +1,5 @@
+INDEX VERSION 1.130
+D:\E\AUniversity\Third\SE\final\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\101074086.index
+\minilibstudent\src
+D:\E\AUniversity\Third\SE\final\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1925917427.index
+\minilibstudent\src
